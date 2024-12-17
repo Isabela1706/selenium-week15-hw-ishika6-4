@@ -1,0 +1,44 @@
+2024-12-15 22:12:144 INFO  HomePage :37 - Click on loginLink : Log in
+2024-12-15 22:12:623 INFO  HomePage :42 - Enter EmailId 'alexjain7675@gmail.com' to email field : 
+2024-12-15 22:12:741 INFO  HomePage :49 - Enter Password 'alexj354' to password field : 
+2024-12-15 22:12:166 INFO  HomePage :56 - Click on loginButton
+2024-12-15 22:12:376 INFO  HomePage :62 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-15 22:12:751 INFO  HomePage :37 - Click on loginLink : Log in
+2024-12-15 22:12:315 INFO  HomePage :42 - Enter EmailId 'alexjain7675@gmail.com' to email field : 
+2024-12-15 22:12:432 INFO  HomePage :49 - Enter Password 'alexj354' to password field : 
+2024-12-15 22:12:829 INFO  HomePage :56 - Click on loginButton
+2024-12-15 22:12:972 INFO  HomePage :62 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 08:12:368 INFO  HomePage :37 - Click on loginLink : Log in
+2024-12-16 08:12:841 INFO  HomePage :35 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 08:12:52 INFO  HomePage :37 - Click on loginLink : Log in
+2024-12-16 08:12:849 INFO  HomePage :42 - Enter EmailId 'alexpatel123@gmail.com' to email field : 
+2024-12-16 08:12:03 INFO  HomePage :49 - Enter Password 'alex123' to password field : 
+2024-12-16 08:12:22 INFO  HomePage :56 - Click on loginButton
+2024-12-16 08:12:126 INFO  HomePage :61 - Checking is logOutLink displayed : Log out
+2024-12-16 08:12:156 INFO  HomePage :47 - Click on registerLink : Register
+2024-12-16 08:12:683 INFO  HomePage :60 - Get registerText : Register
+2024-12-16 08:12:991 INFO  HomePage :47 - Click on registerLink : Register
+2024-12-16 08:12:671 INFO  HomePage :103 - Click on 'REGISTER' button
+2024-12-16 08:12:480 INFO  HomePage :47 - Click on registerLink : Register
+2024-12-16 08:12:946 INFO  HomePage :67 - Select 'Female' radio button
+2024-12-16 08:12:200 INFO  HomePage :75 - Enter Firstname : 'Alex' to firstName field
+2024-12-16 08:12:333 INFO  HomePage :79 - Enter Lastname : 'Patel' to lastName field
+2024-12-16 08:12:564 INFO  HomePage :90 - Enter Email : 'alexpatel6565@gmail.com' to email field
+2024-12-16 08:12:716 INFO  HomePage :94 - Enter Password : 'patelalex' to password field
+2024-12-16 08:12:881 INFO  HomePage :98 - Enter Confirm password : 'patelalex' to confirm password field
+2024-12-16 08:12:645 INFO  HomePage :103 - Click on 'REGISTER' button
+2024-12-16 08:12:686 INFO  HomePage :119 - Get your reg completed text : Your registration completed
+2024-12-16 08:12:881 INFO  HomePage :47 - Click on registerLink : Register
+2024-12-16 08:12:508 INFO  HomePage :60 - Get registerText : Register
+2024-12-16 08:12:425 INFO  HomePage :47 - Click on registerLink : Register
+2024-12-16 08:12:290 INFO  HomePage :103 - Click on 'REGISTER' button
+2024-12-16 08:12:343 INFO  HomePage :47 - Click on registerLink : Register
+2024-12-16 08:12:946 INFO  HomePage :67 - Select 'Female' radio button
+2024-12-16 08:12:242 INFO  HomePage :75 - Enter Firstname : 'Alex' to firstName field
+2024-12-16 08:12:401 INFO  HomePage :79 - Enter Lastname : 'Patel' to lastName field
+2024-12-16 08:12:674 INFO  HomePage :90 - Enter Email : 'alexpatel6565@gmail.com' to email field
+2024-12-16 08:12:858 INFO  HomePage :94 - Enter Password : 'patelalex' to password field
+2024-12-16 08:12:41 INFO  HomePage :98 - Enter Confirm password : 'patelalex' to confirm password field
+2024-12-16 08:12:229 INFO  HomePage :103 - Click on 'REGISTER' button
